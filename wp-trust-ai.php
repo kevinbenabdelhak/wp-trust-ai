@@ -4,7 +4,7 @@
 Plugin Name: WP Trust AI
 Plugin URI: https://kevin-benabdelhak.fr/plugins/wp-trust-ai/
 Description: WP Trust AI est un plugin WordPress qui utilise OpenAI pour générer des avis produits automatisés basés à partir de styles d'écriture personnalisables.
-Version: 1.0
+Version: 1.1
 Author: Kevin BENABDELHAK
 Author URI: https://kevin-benabdelhak.fr/
 Contributors: kevinbenabdelhak
