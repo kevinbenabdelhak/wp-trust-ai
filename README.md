@@ -58,3 +58,7 @@ WP Trust AI est un plugin WordPress qui permet de générer automatiquement des 
 * Fonctionnalités de génération automatique d'avis à l'aide de l'API OpenAI.
 * Contrôle individuel pour chaque produit avec activation/désactivation des avis automatiques.
 * Interface utilisateur intuitive pour la configuration et la gestion des paramètres.
+
+<a href="https://kevin-benabdelhak.fr/soutenir/">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXY0cmdrdnNjcXlxb3hrcG15YmpzYWRqZ3BpeHNyY3I4YjZ1eXc0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R9mgVlsCuv6XCDK8Lb/giphy.gif" alt="Soutenir Kevin Benabdelhak pour développer des plugins WordPress" style="width:100%;" />
+</a>
