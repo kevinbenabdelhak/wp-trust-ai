@@ -5,7 +5,7 @@
 **Requires at least:** 5.0  
 **Tested up to:** 6.7.1  
 **Requires PHP:** 7.0  
-**Stable tag:** 1.0  
+**Stable tag:** 1.1     
 **License:** GPLv2 or later  
 **License URI:** [https://www.gnu.org/licenses/gpl-2.0.html](https://www.gnu.org/licenses/gpl-2.0.html)
 
@@ -52,6 +52,9 @@ WP Trust AI est un plugin WordPress qui permet de générer automatiquement des 
    - Entrez vos paramètres d'API OpenAI pour activer la génération d'avis.
 
 ## Mise à jour
+= 1.1 =
+
+* Ajout de gpt-5
 
 = 1.0 =
 
