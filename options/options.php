@@ -52,6 +52,7 @@ function wp_trust_ai_options_page() {
                     <th scope="row">Modèle GPT</th>
                     <td>
                         <select name="wp_trust_ai_gpt_model">
+                            <option value="gpt-5" <?php selected($gpt_model, 'gpt-5'); ?>>gpt-5</option>
                             <option value="gpt-4o-mini" <?php selected($gpt_model, 'gpt-4o-mini'); ?>>gpt-4o-mini</option>
                             <option value="gpt-4o" <?php selected($gpt_model, 'gpt-4o'); ?>>gpt-4o</option>
                             <option value="gpt-3.5-turbo" <?php selected($gpt_model, 'gpt-3.5-turbo'); ?>>gpt-3.5-turbo</option>
